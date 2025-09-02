@@ -1,4 +1,4 @@
 # AiPromptPlayground
 This project demonstrates a web app designed to showcase prompt engineering skills and effective communication with LLMs (Large Language Models). The focus is on structuring prompts, managing model responses, and providing users with dynamic control over model behavior through adjustable features.
 
-For full project details, see [AiPromptPlayground README](AiPromptPlayground/prompt-playground/README.md)
+For full project details, see [AiPromptPlayground README](prompt-playground/README.md)
